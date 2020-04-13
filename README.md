@@ -1,10 +1,10 @@
 ## Hi! Just playing!
 
-You can use the [editor on GitHub](https://github.com/Irina-Park/Repository-3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+What can we do here&
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### I hope not nothing...
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
